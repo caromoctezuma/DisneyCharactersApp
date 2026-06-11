@@ -112,7 +112,7 @@ https://disneyapi.dev/
 ### Clonar repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/DisneyCharactersApp.git
+git clone https://github.com/caromoctezuma/DisneyCharactersApp.git
 ```
 
 ### Abrir proyecto
